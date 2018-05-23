@@ -9,3 +9,7 @@ Run it using `node interactive.js`
 ## index.js 
 Run it using `node index.js`.
 Calls `node interactive.js` to simulate an external process with user interaction. This spawns a new process that has its stdio redirected to the parent process.
+
+## Reference
+https://medium.freecodecamp.org/node-js-child-processes-everything-you-need-to-know-e69498fe970a
+https://nodejs.org/api/child_process.html#child_process_child_process_execsync_command_options
